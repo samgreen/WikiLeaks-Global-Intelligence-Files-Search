@@ -1,16 +1,27 @@
 {
-  "name": "gi-search",
-  "version": "0.0.0",
-  "description": "Search the wikileaks GI files.",
-  "main": "gi-search.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Sam Green",
-  "license": "BSD",
+  "name": "wikileaks-gi-search",
+  "version": "1.0.0",
+  "description": "Search the wikileaks.org GI files leaks.",
+  "main": "search.js",
   "dependencies": {
-    "express": "~3.4.4",
-    "request": "~2.27.0",
-    "cheerio": "~0.12.4"
+    "cheerio": "~0.12.4",
+    "request": "~2.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samgreen/WikiLeaks-Global-Intelligence-Search.git"
+  },
+  "keywords": [
+    "wikileaks",
+    "gifiles",
+    "leaks",
+    "wikileak"
+  ],
+  "author": "Sam Green <greensamuelm@gmail.com> (http://github.com/samgreen)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/samgreen/WikiLeaks-Global-Intelligence-Search/issues"
   }
 }
