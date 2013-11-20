@@ -1,0 +1,16 @@
+{
+  "name": "gi-search",
+  "version": "0.0.0",
+  "description": "Search the wikileaks GI files.",
+  "main": "gi-search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Green",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.4.4",
+    "request": "~2.27.0",
+    "cheerio": "~0.12.4"
+  }
+}
