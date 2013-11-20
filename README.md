@@ -3,6 +3,8 @@ WikiLeaks.org Global Intelligence Files
 
 Node.js library to search the WikiLeaks GI files. This library uses cheerio to parse results from search.wikileaks.org/gifiles/.
 
+This library is published to NPM as `wikileaks-gi-search`.
+
 Usage
 ============
 	var view = require('./view');
